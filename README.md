@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/hun9812/leetcode_problems/tree/master/0168-excel-sheet-column-title) |
+## String
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/hun9812/leetcode_problems/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
