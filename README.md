@@ -5,14 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hun9812/leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hun9812/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hun9812/leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hun9812/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hun9812/leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hun9812/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
 | ------- |
