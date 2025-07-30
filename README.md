@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/hun9812/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 ## Tree
 |  |
 | ------- |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/hun9812/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/hun9812/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
