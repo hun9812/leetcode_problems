@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hun9812/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hun9812/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/hun9812/leetcode_problems/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/hun9812/leetcode_problems/tree/master/0242-valid-anagram) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 ## Linked List
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/hun9812/leetcode_problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hun9812/leetcode_problems/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/hun9812/leetcode_problems/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hun9812/leetcode_problems/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/hun9812/leetcode_problems/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
