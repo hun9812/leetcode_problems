@@ -35,18 +35,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/hun9812/leetcode_problems/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/hun9812/leetcode_problems/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/hun9812/leetcode_problems/tree/master/0257-binary-tree-paths) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/hun9812/leetcode_problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hun9812/leetcode_problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/hun9812/leetcode_problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/hun9812/leetcode_problems/tree/master/0257-binary-tree-paths) |
 ## Array
 |  |
 | ------- |
@@ -136,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/hun9812/leetcode_problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/hun9812/leetcode_problems/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/hun9812/leetcode_problems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
