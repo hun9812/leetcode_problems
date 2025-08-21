@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/hun9812/leetcode_problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hun9812/leetcode_problems/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/hun9812/leetcode_problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/hun9812/leetcode_problems/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -144,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/hun9812/leetcode_problems/tree/master/0257-binary-tree-paths) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hun9812/leetcode_problems/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hun9812/leetcode_problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
