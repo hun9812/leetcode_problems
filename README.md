@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hun9812/leetcode_problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/hun9812/leetcode_problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/hun9812/leetcode_problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/hun9812/leetcode_problems/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hun9812/leetcode_problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hun9812/leetcode_problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/hun9812/leetcode_problems/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/hun9812/leetcode_problems/tree/master/0342-power-of-four) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hun9812/leetcode_problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/hun9812/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/hun9812/leetcode_problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/hun9812/leetcode_problems/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
 | ------- |
