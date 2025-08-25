@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hun9812/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/hun9812/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/hun9812/leetcode_problems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/hun9812/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/hun9812/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/hun9812/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/hun9812/leetcode_problems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/hun9812/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
 | ------- |
