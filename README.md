@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/hun9812/leetcode_problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hun9812/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hun9812/leetcode_problems/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/hun9812/leetcode_problems/tree/master/0409-longest-palindrome) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 ## Linked List
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/hun9812/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hun9812/leetcode_problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/hun9812/leetcode_problems/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/hun9812/leetcode_problems/tree/master/0409-longest-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/hun9812/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/hun9812/leetcode_problems/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
