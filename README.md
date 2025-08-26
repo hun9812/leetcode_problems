@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/hun9812/leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/hun9812/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hun9812/leetcode_problems/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/hun9812/leetcode_problems/tree/master/0441-arranging-coins) |
 ## String
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hun9812/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/hun9812/leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/hun9812/leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/hun9812/leetcode_problems/tree/master/0441-arranging-coins) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Design
 |  |
