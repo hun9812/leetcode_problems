@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/hun9812/leetcode_problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/hun9812/leetcode_problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/hun9812/leetcode_problems/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/hun9812/leetcode_problems/tree/master/0482-license-key-formatting) |
 ## Array
 |  |
 | ------- |
