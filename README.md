@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/hun9812/leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hun9812/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/hun9812/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/hun9812/leetcode_problems/tree/master/0500-keyboard-row) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 ## Linked List
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/hun9812/leetcode_problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/hun9812/leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/hun9812/leetcode_problems/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/hun9812/leetcode_problems/tree/master/0500-keyboard-row) |
 ## Array
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/hun9812/leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/hun9812/leetcode_problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/hun9812/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/hun9812/leetcode_problems/tree/master/0500-keyboard-row) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
