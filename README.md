@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/hun9812/leetcode_problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/hun9812/leetcode_problems/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/hun9812/leetcode_problems/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/hun9812/leetcode_problems/tree/master/0461-hamming-distance) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
 |  |
