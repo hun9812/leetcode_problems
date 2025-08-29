@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/hun9812/leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/hun9812/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/hun9812/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/hun9812/leetcode_problems/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/hun9812/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/hun9812/leetcode_problems/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/hun9812/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
