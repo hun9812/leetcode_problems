@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hun9812/leetcode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/hun9812/leetcode_problems/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/hun9812/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hun9812/leetcode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/hun9812/leetcode_problems/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/hun9812/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hun9812/leetcode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/hun9812/leetcode_problems/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/hun9812/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
 ## Math
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/hun9812/leetcode_problems/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/hun9812/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -332,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/hun9812/leetcode_problems/tree/master/0561-array-partition) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/hun9812/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
