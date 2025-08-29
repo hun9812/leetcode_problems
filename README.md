@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/hun9812/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/hun9812/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/hun9812/leetcode_problems/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/hun9812/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 ## Linked List
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/hun9812/leetcode_problems/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/hun9812/leetcode_problems/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/hun9812/leetcode_problems/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/hun9812/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -190,12 +192,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/hun9812/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/hun9812/leetcode_problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/hun9812/leetcode_problems/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/hun9812/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hun9812/leetcode_problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/hun9812/leetcode_problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hun9812/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/hun9812/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Database
 |  |
 | ------- |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/hun9812/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Binary Search
