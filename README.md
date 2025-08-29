@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/hun9812/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/hun9812/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/hun9812/leetcode_problems/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/hun9812/leetcode_problems/tree/master/0561-array-partition) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/hun9812/leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/hun9812/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/hun9812/leetcode_problems/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/hun9812/leetcode_problems/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/hun9812/leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/hun9812/leetcode_problems/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/hun9812/leetcode_problems/tree/master/0561-array-partition) |
 ## String Matching
 |  |
 | ------- |
@@ -319,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/hun9812/leetcode_problems/tree/master/1013-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/hun9812/leetcode_problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
