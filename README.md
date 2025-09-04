@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/hun9812/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/hun9812/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/hun9812/leetcode_problems/tree/master/0661-image-smoother) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/hun9812/leetcode_problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
