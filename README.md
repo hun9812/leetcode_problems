@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hun9812/leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hun9812/leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hun9812/leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Math
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/hun9812/leetcode_problems/tree/master/0506-relative-ranks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hun9812/leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Sliding Window
 |  |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/hun9812/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hun9812/leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/hun9812/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hun9812/leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hun9812/leetcode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hun9812/leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hun9812/leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Memoization
 |  |
 | ------- |
@@ -414,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/hun9812/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hun9812/leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
