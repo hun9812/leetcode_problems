@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/hun9812/leetcode_problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hun9812/leetcode_problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/hun9812/leetcode_problems/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/hun9812/leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/hun9812/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hun9812/leetcode_problems/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/hun9812/leetcode_problems/tree/master/0441-arranging-coins) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/hun9812/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hun9812/leetcode_problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/hun9812/leetcode_problems/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/hun9812/leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/hun9812/leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/hun9812/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hun9812/leetcode_problems/tree/master/0415-add-strings) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/hun9812/leetcode_problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/hun9812/leetcode_problems/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/hun9812/leetcode_problems/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/hun9812/leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/hun9812/leetcode_problems/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/hun9812/leetcode_problems/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/hun9812/leetcode_problems/tree/master/0645-set-mismatch) |
