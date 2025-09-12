@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/hun9812/leetcode_problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/hun9812/leetcode_problems/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/hun9812/leetcode_problems/tree/master/0697-degree-of-an-array) |
+| [0792-binary-search](https://github.com/hun9812/leetcode_problems/tree/master/0792-binary-search) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/hun9812/leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/hun9812/leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/hun9812/leetcode_problems/tree/master/0441-arranging-coins) |
+| [0792-binary-search](https://github.com/hun9812/leetcode_problems/tree/master/0792-binary-search) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Design
 |  |
