@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hun9812/leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/hun9812/leetcode_problems/tree/master/0697-degree-of-an-array) |
 | [0816-design-hashset](https://github.com/hun9812/leetcode_problems/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/hun9812/leetcode_problems/tree/master/0817-design-hashmap) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 ## Linked List
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hun9812/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/hun9812/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/hun9812/leetcode_problems/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/hun9812/leetcode_problems/tree/master/0817-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/hun9812/leetcode_problems/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/hun9812/leetcode_problems/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/hun9812/leetcode_problems/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/hun9812/leetcode_problems/tree/master/0817-design-hashmap) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/hun9812/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hun9812/leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/hun9812/leetcode_problems/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/hun9812/leetcode_problems/tree/master/0817-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/hun9812/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/hun9812/leetcode_problems/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/hun9812/leetcode_problems/tree/master/0817-design-hashmap) |
 ## Data Stream
 |  |
 | ------- |
