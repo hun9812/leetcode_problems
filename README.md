@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hun9812/leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/hun9812/leetcode_problems/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/hun9812/leetcode_problems/tree/master/0749-shortest-completing-word) |
+| [0782-jewels-and-stones](https://github.com/hun9812/leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/hun9812/leetcode_problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/hun9812/leetcode_problems/tree/master/0817-design-hashmap) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/hun9812/leetcode_problems/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/hun9812/leetcode_problems/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/hun9812/leetcode_problems/tree/master/0749-shortest-completing-word) |
+| [0782-jewels-and-stones](https://github.com/hun9812/leetcode_problems/tree/master/0782-jewels-and-stones) |
 ## Array
 |  |
 | ------- |
