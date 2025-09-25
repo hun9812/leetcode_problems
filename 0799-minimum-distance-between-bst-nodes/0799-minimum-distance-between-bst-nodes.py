@@ -22,4 +22,4 @@ class Solution:
             res = min(res, nodes[i+1]-nodes[i])
         
         return res
-        
+        # 아.. bst 구나
