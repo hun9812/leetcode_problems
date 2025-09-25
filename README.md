@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/hun9812/leetcode_problems/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/hun9812/leetcode_problems/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/hun9812/leetcode_problems/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/hun9812/leetcode_problems/tree/master/0812-rotate-string) |
 ## Array
 |  |
 | ------- |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/hun9812/leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/hun9812/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/hun9812/leetcode_problems/tree/master/0812-rotate-string) |
 ## Matrix
 |  |
 | ------- |
