@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/hun9812/leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/hun9812/leetcode_problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/hun9812/leetcode_problems/tree/master/0817-design-hashmap) |
+| [0822-unique-morse-code-words](https://github.com/hun9812/leetcode_problems/tree/master/0822-unique-morse-code-words) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 ## Linked List
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/hun9812/leetcode_problems/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/hun9812/leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/hun9812/leetcode_problems/tree/master/0812-rotate-string) |
+| [0822-unique-morse-code-words](https://github.com/hun9812/leetcode_problems/tree/master/0822-unique-morse-code-words) |
 ## Array
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/hun9812/leetcode_problems/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/hun9812/leetcode_problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/hun9812/leetcode_problems/tree/master/0817-design-hashmap) |
+| [0822-unique-morse-code-words](https://github.com/hun9812/leetcode_problems/tree/master/0822-unique-morse-code-words) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
