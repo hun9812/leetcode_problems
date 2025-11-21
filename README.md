@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/hun9812/leetcode_problems/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/hun9812/leetcode_problems/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/hun9812/leetcode_problems/tree/master/0841-shortest-distance-to-a-character) |
+| [0860-lemonade-change](https://github.com/hun9812/leetcode_problems/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/hun9812/leetcode_problems/tree/master/0861-flipping-an-image) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/hun9812/leetcode_problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/hun9812/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/hun9812/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/hun9812/leetcode_problems/tree/master/0860-lemonade-change) |
 ## String Matching
 |  |
 | ------- |
