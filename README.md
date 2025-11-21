@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/hun9812/leetcode_problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/hun9812/leetcode_problems/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/hun9812/leetcode_problems/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/hun9812/leetcode_problems/tree/master/0867-transpose-matrix) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/hun9812/leetcode_problems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/hun9812/leetcode_problems/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/hun9812/leetcode_problems/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/hun9812/leetcode_problems/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/hun9812/leetcode_problems/tree/master/0874-backspace-string-compare) |
 ## Number Theory
 |  |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/hun9812/leetcode_problems/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/hun9812/leetcode_problems/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/hun9812/leetcode_problems/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/hun9812/leetcode_problems/tree/master/0867-transpose-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
