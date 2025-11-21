@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/hun9812/leetcode_problems/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/hun9812/leetcode_problems/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/hun9812/leetcode_problems/tree/master/0837-most-common-word) |
+| [0859-buddy-strings](https://github.com/hun9812/leetcode_problems/tree/master/0859-buddy-strings) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 ## Linked List
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/hun9812/leetcode_problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/hun9812/leetcode_problems/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/hun9812/leetcode_problems/tree/master/0857-positions-of-large-groups) |
+| [0859-buddy-strings](https://github.com/hun9812/leetcode_problems/tree/master/0859-buddy-strings) |
 | [0874-backspace-string-compare](https://github.com/hun9812/leetcode_problems/tree/master/0874-backspace-string-compare) |
 ## Array
 |  |
