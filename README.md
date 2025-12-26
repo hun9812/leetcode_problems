@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/hun9812/leetcode_problems/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/hun9812/leetcode_problems/tree/master/0866-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/hun9812/leetcode_problems/tree/master/0883-projection-area-of-3d-shapes) |
+| [0892-surface-area-of-3d-shapes](https://github.com/hun9812/leetcode_problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/hun9812/leetcode_problems/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/hun9812/leetcode_problems/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/hun9812/leetcode_problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/hun9812/leetcode_problems/tree/master/0888-fair-candy-swap) |
+| [0892-surface-area-of-3d-shapes](https://github.com/hun9812/leetcode_problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/hun9812/leetcode_problems/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/hun9812/leetcode_problems/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/hun9812/leetcode_problems/tree/master/0883-projection-area-of-3d-shapes) |
+| [0892-surface-area-of-3d-shapes](https://github.com/hun9812/leetcode_problems/tree/master/0892-surface-area-of-3d-shapes) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -521,4 +524,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/hun9812/leetcode_problems/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/hun9812/leetcode_problems/tree/master/0866-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/hun9812/leetcode_problems/tree/master/0883-projection-area-of-3d-shapes) |
+| [0892-surface-area-of-3d-shapes](https://github.com/hun9812/leetcode_problems/tree/master/0892-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
