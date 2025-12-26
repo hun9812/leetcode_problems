@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/hun9812/leetcode_problems/tree/master/0874-backspace-string-compare) |
+| [0897-increasing-order-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0897-increasing-order-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/hun9812/leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/hun9812/leetcode_problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/hun9812/leetcode_problems/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/hun9812/leetcode_problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/hun9812/leetcode_problems/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/hun9812/leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/hun9812/leetcode_problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/hun9812/leetcode_problems/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0897-increasing-order-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hun9812/leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/hun9812/leetcode_problems/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0897-increasing-order-search-tree) |
 ## Memoization
 |  |
 | ------- |
