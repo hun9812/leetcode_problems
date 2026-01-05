@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/hun9812/leetcode_problems/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/hun9812/leetcode_problems/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/hun9812/leetcode_problems/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/hun9812/leetcode_problems/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/hun9812/leetcode_problems/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/hun9812/leetcode_problems/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0965-univalued-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/hun9812/leetcode_problems/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/hun9812/leetcode_problems/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0965-univalued-binary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0965-univalued-binary-tree) |
 ## Recursion
 |  |
 | ------- |
