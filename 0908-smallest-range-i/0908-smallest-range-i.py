@@ -11,9 +11,6 @@ class Solution:
         else:
             diff //= 2
             check = (diff - k) * 2
-            if check == 0:
-                return 1
-            else:
-                return max(check+1, 0)
+            return max(check+1, 0)
 
         
