@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/hun9812/leetcode_problems/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/hun9812/leetcode_problems/tree/master/0874-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/hun9812/leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/hun9812/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 ## Stack
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/hun9812/leetcode_problems/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/hun9812/leetcode_problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/hun9812/leetcode_problems/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/hun9812/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/hun9812/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/hun9812/leetcode_problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/hun9812/leetcode_problems/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/hun9812/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 ## Counting
 |  |
 | ------- |
