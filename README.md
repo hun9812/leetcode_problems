@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/hun9812/leetcode_problems/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/hun9812/leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/hun9812/leetcode_problems/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/hun9812/leetcode_problems/tree/master/0942-di-string-match) |
 ## Stack
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/hun9812/leetcode_problems/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/hun9812/leetcode_problems/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/hun9812/leetcode_problems/tree/master/0929-unique-email-addresses) |
+| [0942-di-string-match](https://github.com/hun9812/leetcode_problems/tree/master/0942-di-string-match) |
 ## Array
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/hun9812/leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/hun9812/leetcode_problems/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/hun9812/leetcode_problems/tree/master/0941-valid-mountain-array) |
+| [0942-di-string-match](https://github.com/hun9812/leetcode_problems/tree/master/0942-di-string-match) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/hun9812/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/hun9812/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/hun9812/leetcode_problems/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/hun9812/leetcode_problems/tree/master/0942-di-string-match) |
 ## String Matching
 |  |
 | ------- |
