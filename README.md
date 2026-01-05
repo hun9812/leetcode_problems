@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/hun9812/leetcode_problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/hun9812/leetcode_problems/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/hun9812/leetcode_problems/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/hun9812/leetcode_problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/hun9812/leetcode_problems/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/hun9812/leetcode_problems/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/hun9812/leetcode_problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/hun9812/leetcode_problems/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/hun9812/leetcode_problems/tree/master/0938-range-sum-of-bst) |
 ## Math
 |  |
 | ------- |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/hun9812/leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/hun9812/leetcode_problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/hun9812/leetcode_problems/tree/master/0938-range-sum-of-bst) |
 ## Memoization
 |  |
 | ------- |
