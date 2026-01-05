@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/hun9812/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/hun9812/leetcode_problems/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/hun9812/leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/hun9812/leetcode_problems/tree/master/0925-long-pressed-name) |
 ## Stack
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/hun9812/leetcode_problems/tree/master/0874-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hun9812/leetcode_problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/hun9812/leetcode_problems/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/hun9812/leetcode_problems/tree/master/0925-long-pressed-name) |
 ## Array
 |  |
 | ------- |
