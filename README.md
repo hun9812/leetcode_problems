@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/hun9812/leetcode_problems/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hun9812/leetcode_problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/hun9812/leetcode_problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/hun9812/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/hun9812/leetcode_problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/hun9812/leetcode_problems/tree/master/0861-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/hun9812/leetcode_problems/tree/master/1009-complement-of-base-10-integer) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/hun9812/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
 |  |
