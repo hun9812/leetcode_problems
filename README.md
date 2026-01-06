@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/hun9812/leetcode_problems/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/hun9812/leetcode_problems/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hun9812/leetcode_problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/hun9812/leetcode_problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/hun9812/leetcode_problems/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/hun9812/leetcode_problems/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hun9812/leetcode_problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/hun9812/leetcode_problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## String Matching
 |  |
 | ------- |
