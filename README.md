@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/hun9812/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/hun9812/leetcode_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/hun9812/leetcode_problems/tree/master/0997-find-the-town-judge) |
+| [0999-available-captures-for-rook](https://github.com/hun9812/leetcode_problems/tree/master/0999-available-captures-for-rook) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/hun9812/leetcode_problems/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/hun9812/leetcode_problems/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/hun9812/leetcode_problems/tree/master/0874-backspace-string-compare) |
+| [0999-available-captures-for-rook](https://github.com/hun9812/leetcode_problems/tree/master/0999-available-captures-for-rook) |
 ## Number Theory
 |  |
 | ------- |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/hun9812/leetcode_problems/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/hun9812/leetcode_problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/hun9812/leetcode_problems/tree/master/0892-surface-area-of-3d-shapes) |
+| [0999-available-captures-for-rook](https://github.com/hun9812/leetcode_problems/tree/master/0999-available-captures-for-rook) |
 ## Monotonic Stack
 |  |
 | ------- |
