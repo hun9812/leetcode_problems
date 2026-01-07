@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/hun9812/leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/hun9812/leetcode_problems/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/hun9812/leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
+| [1037-valid-boomerang](https://github.com/hun9812/leetcode_problems/tree/master/1037-valid-boomerang) |
 ## String
 |  |
 | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/hun9812/leetcode_problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/hun9812/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1030-matrix-cells-in-distance-order](https://github.com/hun9812/leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
+| [1037-valid-boomerang](https://github.com/hun9812/leetcode_problems/tree/master/1037-valid-boomerang) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/hun9812/leetcode_problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/hun9812/leetcode_problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/hun9812/leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
+| [1037-valid-boomerang](https://github.com/hun9812/leetcode_problems/tree/master/1037-valid-boomerang) |
 ## Graph
 |  |
 | ------- |
