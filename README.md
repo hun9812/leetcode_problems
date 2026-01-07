@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/hun9812/leetcode_problems/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/hun9812/leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/hun9812/leetcode_problems/tree/master/1037-valid-boomerang) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hun9812/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/hun9812/leetcode_problems/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/hun9812/leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hun9812/leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hun9812/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
 | ------- |
