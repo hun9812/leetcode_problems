@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/hun9812/leetcode_problems/tree/master/0874-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/hun9812/leetcode_problems/tree/master/0897-increasing-order-search-tree) |
+| [1021-remove-outermost-parentheses](https://github.com/hun9812/leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/hun9812/leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hun9812/leetcode_problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/hun9812/leetcode_problems/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/hun9812/leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
