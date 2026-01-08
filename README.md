@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/hun9812/leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/hun9812/leetcode_problems/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/hun9812/leetcode_problems/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/hun9812/leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 ## Linked List
 |  |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/hun9812/leetcode_problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/hun9812/leetcode_problems/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/hun9812/leetcode_problems/tree/master/1089-duplicate-zeros) |
+| [1122-relative-sort-array](https://github.com/hun9812/leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hun9812/leetcode_problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/hun9812/leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/hun9812/leetcode_problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/hun9812/leetcode_problems/tree/master/1122-relative-sort-array) |
 ## Counting
 |  |
 | ------- |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/hun9812/leetcode_problems/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/hun9812/leetcode_problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/hun9812/leetcode_problems/tree/master/1122-relative-sort-array) |
 ## Hash Function
 |  |
 | ------- |
