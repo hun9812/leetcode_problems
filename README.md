@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/hun9812/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/hun9812/leetcode_problems/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/hun9812/leetcode_problems/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/hun9812/leetcode_problems/tree/master/1154-day-of-the-year) |
 ## String
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/hun9812/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/hun9812/leetcode_problems/tree/master/1078-occurrences-after-bigram) |
 | [1108-defanging-an-ip-address](https://github.com/hun9812/leetcode_problems/tree/master/1108-defanging-an-ip-address) |
+| [1154-day-of-the-year](https://github.com/hun9812/leetcode_problems/tree/master/1154-day-of-the-year) |
 ## Array
 |  |
 | ------- |
