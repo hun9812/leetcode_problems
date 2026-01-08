@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/hun9812/leetcode_problems/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/hun9812/leetcode_problems/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/hun9812/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/hun9812/leetcode_problems/tree/master/1089-duplicate-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/hun9812/leetcode_problems/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/hun9812/leetcode_problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/hun9812/leetcode_problems/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/hun9812/leetcode_problems/tree/master/1089-duplicate-zeros) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
