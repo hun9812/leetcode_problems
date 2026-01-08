@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/hun9812/leetcode_problems/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/hun9812/leetcode_problems/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/hun9812/leetcode_problems/tree/master/1084-sales-analysis-iii) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/hun9812/leetcode_problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1179-game-play-analysis-i](https://github.com/hun9812/leetcode_problems/tree/master/1179-game-play-analysis-i) |
 ## Bit Manipulation
 |  |
