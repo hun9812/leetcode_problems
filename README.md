@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/hun9812/leetcode_problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/hun9812/leetcode_problems/tree/master/1148-article-views-i) |
 | [1179-game-play-analysis-i](https://github.com/hun9812/leetcode_problems/tree/master/1179-game-play-analysis-i) |
+| [1179-reformat-department-table](https://github.com/hun9812/leetcode_problems/tree/master/1179-reformat-department-table) |
 ## Bit Manipulation
 |  |
 | ------- |
