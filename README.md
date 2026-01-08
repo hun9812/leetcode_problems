@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/hun9812/leetcode_problems/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/hun9812/leetcode_problems/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/hun9812/leetcode_problems/tree/master/1154-day-of-the-year) |
+| [1185-day-of-the-week](https://github.com/hun9812/leetcode_problems/tree/master/1185-day-of-the-week) |
 ## String
 |  |
 | ------- |
