@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/hun9812/leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/hun9812/leetcode_problems/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hun9812/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1103-distribute-candies-to-people](https://github.com/hun9812/leetcode_problems/tree/master/1103-distribute-candies-to-people) |
 ## String
 |  |
 | ------- |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/hun9812/leetcode_problems/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/hun9812/leetcode_problems/tree/master/0874-backspace-string-compare) |
 | [0999-available-captures-for-rook](https://github.com/hun9812/leetcode_problems/tree/master/0999-available-captures-for-rook) |
+| [1103-distribute-candies-to-people](https://github.com/hun9812/leetcode_problems/tree/master/1103-distribute-candies-to-people) |
 ## Number Theory
 |  |
 | ------- |
