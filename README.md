@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/hun9812/leetcode_problems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/hun9812/leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hun9812/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/hun9812/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/hun9812/leetcode_problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hun9812/leetcode_problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/hun9812/leetcode_problems/tree/master/0242-valid-anagram) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hun9812/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/hun9812/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/hun9812/leetcode_problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hun9812/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/hun9812/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hun9812/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/hun9812/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/hun9812/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/hun9812/leetcode_problems/tree/master/0401-binary-watch) |
 ## Simulation
