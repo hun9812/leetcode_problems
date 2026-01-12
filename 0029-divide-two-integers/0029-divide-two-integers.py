@@ -4,11 +4,13 @@ class Solution:
             return 1
         if dividend == -2**31 and divisor == -1:
             return (2**31) - 1 
-        
         if divisor == 1:
             return dividend
         
-        sign = -1 if (dividend < 0) ^ (divisor < 0) else 1
+        if (dividend < 0) ^ (divisor < 0):
+            sign = -1
+        else:
+            sign = 1
         
         n, d = abs(dividend), abs(divisor)
         ans = 0
