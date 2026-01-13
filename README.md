@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hun9812/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/hun9812/leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hun9812/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/hun9812/leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/hun9812/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hun9812/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/hun9812/leetcode_problems/tree/master/0169-majority-element) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/hun9812/leetcode_problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/hun9812/leetcode_problems/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hun9812/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/hun9812/leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/hun9812/leetcode_problems/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/hun9812/leetcode_problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/hun9812/leetcode_problems/tree/master/0268-missing-number) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/hun9812/leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/hun9812/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/hun9812/leetcode_problems/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/hun9812/leetcode_problems/tree/master/0661-image-smoother) |
