@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hun9812/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/hun9812/leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/hun9812/leetcode_problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/hun9812/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0169-majority-element](https://github.com/hun9812/leetcode_problems/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/hun9812/leetcode_problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/hun9812/leetcode_problems/tree/master/0268-missing-number) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hun9812/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/hun9812/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/hun9812/leetcode_problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/hun9812/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/hun9812/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/hun9812/leetcode_problems/tree/master/0401-binary-watch) |
 ## Simulation
