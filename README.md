@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/hun9812/leetcode_problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/hun9812/leetcode_problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hun9812/leetcode_problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/hun9812/leetcode_problems/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/hun9812/leetcode_problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hun9812/leetcode_problems/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/hun9812/leetcode_problems/tree/master/0231-power-of-two) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hun9812/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/hun9812/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/hun9812/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/hun9812/leetcode_problems/tree/master/0062-unique-paths) |
 | [0338-counting-bits](https://github.com/hun9812/leetcode_problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hun9812/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/hun9812/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -755,4 +757,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/hun9812/leetcode_problems/tree/master/1114-print-in-order) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hun9812/leetcode_problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
