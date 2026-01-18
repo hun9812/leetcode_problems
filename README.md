@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/hun9812/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/hun9812/leetcode_problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/hun9812/leetcode_problems/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/hun9812/leetcode_problems/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/hun9812/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/hun9812/leetcode_problems/tree/master/0401-binary-watch) |
 ## Simulation
