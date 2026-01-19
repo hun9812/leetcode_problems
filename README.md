@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hun9812/leetcode_problems/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hun9812/leetcode_problems/tree/master/0226-invert-binary-tree) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hun9812/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/hun9812/leetcode_problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/hun9812/leetcode_problems/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/hun9812/leetcode_problems/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/hun9812/leetcode_problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hun9812/leetcode_problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/hun9812/leetcode_problems/tree/master/0242-valid-anagram) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hun9812/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hun9812/leetcode_problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hun9812/leetcode_problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hun9812/leetcode_problems/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/hun9812/leetcode_problems/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/hun9812/leetcode_problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/hun9812/leetcode_problems/tree/master/0268-missing-number) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/hun9812/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/hun9812/leetcode_problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/hun9812/leetcode_problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hun9812/leetcode_problems/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/hun9812/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/hun9812/leetcode_problems/tree/master/0401-binary-watch) |
 ## Simulation
@@ -716,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/hun9812/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/hun9812/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hun9812/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/hun9812/leetcode_problems/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/hun9812/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/hun9812/leetcode_problems/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/hun9812/leetcode_problems/tree/master/0661-image-smoother) |
