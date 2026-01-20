@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hun9812/leetcode_problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hun9812/leetcode_problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/hun9812/leetcode_problems/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/hun9812/leetcode_problems/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/hun9812/leetcode_problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hun9812/leetcode_problems/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/hun9812/leetcode_problems/tree/master/0231-power-of-two) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/hun9812/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/hun9812/leetcode_problems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/hun9812/leetcode_problems/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/hun9812/leetcode_problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/hun9812/leetcode_problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/hun9812/leetcode_problems/tree/master/0231-power-of-two) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/hun9812/leetcode_problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/hun9812/leetcode_problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hun9812/leetcode_problems/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/hun9812/leetcode_problems/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/hun9812/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/hun9812/leetcode_problems/tree/master/0401-binary-watch) |
 ## Simulation
