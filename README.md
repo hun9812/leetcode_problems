@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/hun9812/leetcode_problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/hun9812/leetcode_problems/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/hun9812/leetcode_problems/tree/master/1795-rearrange-products-table) |
+| [1873-calculate-special-bonus](https://github.com/hun9812/leetcode_problems/tree/master/1873-calculate-special-bonus) |
 ## Bit Manipulation
 |  |
 | ------- |
