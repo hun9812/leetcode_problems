@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/hun9812/leetcode_problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hun9812/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hun9812/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/hun9812/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hun9812/leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/hun9812/leetcode_problems/tree/master/0234-palindrome-linked-list) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/hun9812/leetcode_problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/hun9812/leetcode_problems/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/hun9812/leetcode_problems/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hun9812/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/hun9812/leetcode_problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hun9812/leetcode_problems/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/hun9812/leetcode_problems/tree/master/0231-power-of-two) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/hun9812/leetcode_problems/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/hun9812/leetcode_problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/hun9812/leetcode_problems/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hun9812/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/hun9812/leetcode_problems/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/hun9812/leetcode_problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/hun9812/leetcode_problems/tree/master/0268-missing-number) |
