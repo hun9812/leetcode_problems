@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/hun9812/leetcode_problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/hun9812/leetcode_problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hun9812/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/hun9812/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/hun9812/leetcode_problems/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/hun9812/leetcode_problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/hun9812/leetcode_problems/tree/master/0268-missing-number) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hun9812/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/hun9812/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/hun9812/leetcode_problems/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/hun9812/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/hun9812/leetcode_problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hun9812/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/hun9812/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
