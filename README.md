@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3564-seasonal-sales-analysis](https://github.com/hun9812/leetcode_problems/tree/master/3564-seasonal-sales-analysis) |
 | [3570-find-books-with-no-available-copies](https://github.com/hun9812/leetcode_problems/tree/master/3570-find-books-with-no-available-copies) |
 | [3580-find-consistently-improving-employees](https://github.com/hun9812/leetcode_problems/tree/master/3580-find-consistently-improving-employees) |
+| [3586-find-covid-recovery-patients](https://github.com/hun9812/leetcode_problems/tree/master/3586-find-covid-recovery-patients) |
 ## Bit Manipulation
 |  |
 | ------- |
