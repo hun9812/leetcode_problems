@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/hun9812/leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hun9812/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/hun9812/leetcode_problems/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/hun9812/leetcode_problems/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/hun9812/leetcode_problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/hun9812/leetcode_problems/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/hun9812/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/hun9812/leetcode_problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/hun9812/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/hun9812/leetcode_problems/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/hun9812/leetcode_problems/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/hun9812/leetcode_problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hun9812/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/hun9812/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -937,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hun9812/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hun9812/leetcode_problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/hun9812/leetcode_problems/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/hun9812/leetcode_problems/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/hun9812/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/hun9812/leetcode_problems/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/hun9812/leetcode_problems/tree/master/0661-image-smoother) |
