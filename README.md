@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3570-find-books-with-no-available-copies](https://github.com/hun9812/leetcode_problems/tree/master/3570-find-books-with-no-available-copies) |
 | [3580-find-consistently-improving-employees](https://github.com/hun9812/leetcode_problems/tree/master/3580-find-consistently-improving-employees) |
 | [3586-find-covid-recovery-patients](https://github.com/hun9812/leetcode_problems/tree/master/3586-find-covid-recovery-patients) |
+| [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/hun9812/leetcode_problems/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 ## Bit Manipulation
 |  |
 | ------- |
