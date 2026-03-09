@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hun9812/leetcode_problems/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/hun9812/leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/hun9812/leetcode_problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/hun9812/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hun9812/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hun9812/leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hun9812/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/hun9812/leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/hun9812/leetcode_problems/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/hun9812/leetcode_problems/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/hun9812/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hun9812/leetcode_problems/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/hun9812/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/hun9812/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/hun9812/leetcode_problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/hun9812/leetcode_problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hun9812/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/hun9812/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hun9812/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hun9812/leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hun9812/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hun9812/leetcode_problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/hun9812/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/hun9812/leetcode_problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hun9812/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/hun9812/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
