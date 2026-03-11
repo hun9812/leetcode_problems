@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/hun9812/leetcode_problems/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hun9812/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/hun9812/leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/hun9812/leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/hun9812/leetcode_problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/hun9812/leetcode_problems/tree/master/0817-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/hun9812/leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
