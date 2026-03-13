@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/hun9812/leetcode_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/hun9812/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hun9812/leetcode_problems/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/hun9812/leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/hun9812/leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hun9812/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hun9812/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hun9812/leetcode_problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/hun9812/leetcode_problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/hun9812/leetcode_problems/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/hun9812/leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/hun9812/leetcode_problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/hun9812/leetcode_problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/hun9812/leetcode_problems/tree/master/0326-power-of-three) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/hun9812/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/hun9812/leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/hun9812/leetcode_problems/tree/master/0221-maximal-square) |
+| [0264-ugly-number-ii](https://github.com/hun9812/leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/hun9812/leetcode_problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hun9812/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/hun9812/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hun9812/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/hun9812/leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0506-relative-ranks](https://github.com/hun9812/leetcode_problems/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hun9812/leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/hun9812/leetcode_problems/tree/master/1046-last-stone-weight) |
