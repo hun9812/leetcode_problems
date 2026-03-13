@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/hun9812/leetcode_problems/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/hun9812/leetcode_problems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/hun9812/leetcode_problems/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/hun9812/leetcode_problems/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/hun9812/leetcode_problems/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/hun9812/leetcode_problems/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/hun9812/leetcode_problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
