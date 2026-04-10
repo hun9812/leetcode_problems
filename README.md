@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/hun9812/leetcode_problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/hun9812/leetcode_problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/hun9812/leetcode_problems/tree/master/0274-h-index) |
+| [0284-peeking-iterator](https://github.com/hun9812/leetcode_problems/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/hun9812/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/hun9812/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hun9812/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -836,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/hun9812/leetcode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/hun9812/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hun9812/leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/hun9812/leetcode_problems/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/hun9812/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hun9812/leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/hun9812/leetcode_problems/tree/master/0816-design-hashset) |
@@ -1108,4 +1110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hun9812/leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/hun9812/leetcode_problems/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
