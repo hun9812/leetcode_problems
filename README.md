@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/hun9812/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/hun9812/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/hun9812/leetcode_problems/tree/master/0299-bulls-and-cows) |
+| [0306-additive-number](https://github.com/hun9812/leetcode_problems/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/hun9812/leetcode_problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hun9812/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/hun9812/leetcode_problems/tree/master/0383-ransom-note) |
@@ -916,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/hun9812/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/hun9812/leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/hun9812/leetcode_problems/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/hun9812/leetcode_problems/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/hun9812/leetcode_problems/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
