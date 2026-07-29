@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/hun9812/leetcode_problems/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/hun9812/leetcode_problems/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/hun9812/leetcode_problems/tree/master/1185-day-of-the-week) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/hun9812/leetcode_problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## String
 |  |
 | ------- |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/hun9812/leetcode_problems/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/hun9812/leetcode_problems/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/hun9812/leetcode_problems/tree/master/1207-unique-number-of-occurrences) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/hun9812/leetcode_problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1813-maximum-erasure-value](https://github.com/hun9812/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hun9812/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hun9812/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -972,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/hun9812/leetcode_problems/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hun9812/leetcode_problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/hun9812/leetcode_problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/hun9812/leetcode_problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## String Matching
 |  |
 | ------- |
